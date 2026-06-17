@@ -7,26 +7,18 @@ body{
 font-family: "Poppins", sans-serif;
 }
 header{
-background-color: #77162e;
-color: rgb(32, 5, 5);
+background-color: #424e61;
+color: white;
 width: 100%;
 padding: 20px;
 }
-.cabecalho-itens {
-  max-width: 1980px;
-  margin: 0 auto;
-  display: flex;
-  align-items: center;
-  justify-content: space-between; /* Ajustado: empurra a logo para o canto esquerdo */
-  padding: 10px 20px;             /* Adicionado: evita que a logo cole na borda da tela */
+.cabecalho-itens{
+max-width: 1980px;
+margin: 0 auto;
+display: flex;
+align-items: center;
+justify-content: center;
 }
-
-/* Adicionado junto: define o tamanho de logo para a sua imagem */
-.cabecalho_imagem {
-  height: 60px; /* Altere este valor se quiser a logo maior ou menor */
-  width: auto;  /* Mantém a proporção e não deixa a imagem esticada */
-}
-
 .cabecalho-imagem{
 width: 10%;
 display: flex;
@@ -65,7 +57,7 @@ width: 38px;
 padding: 4px 8px;
 }
 .estudante{
-background-image: background-color(#210511ec);
+background-image: background-color(#faae43);
 padding: 24px 0;
 }
 
@@ -78,7 +70,7 @@ display: flex;
 justify-content: space-around;
 }
 .escola{
-background-image: linear-gradient(#4f0b0b,#770f0f);
+background-image: linear-gradient(#40A2E3,#7FC2EF);
 color: white;
 display: flex;
 justify-content:center;
@@ -97,5 +89,5 @@ padding: 12px 0;
 }
 
 .link{
-color: #250505;
+color: #ffffff;
 text-decoration: none;
