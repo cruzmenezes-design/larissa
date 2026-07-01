@@ -59,7 +59,7 @@ header {
 
 /* ESTUDANTES */
 .estudante {
-  background-color: #faae43;
+  background-color: #760000;
   padding: 40px 0;
 }
 
@@ -92,7 +92,7 @@ header {
 
 /* RODAPÉ */
 .escola {
-  background: linear-gradient(#40A2E3, #7FC2EF);
+  background: linear-gradient(#d31a1a, #d33131);
   color: white;
   text-align: center;
   padding: 30px 10px;
