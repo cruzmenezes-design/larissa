@@ -101,14 +101,15 @@ header{
 background:linear-gradient(#5e1ad3,#1704e5);
     color:white;
     text-align:center;
-
-
-}
-
-.youtube{
+    .youtube{
     display:flex;
     justify-content:center;
 }
+
+
+}
+
+
 
 
 /* RODAPÉ */
