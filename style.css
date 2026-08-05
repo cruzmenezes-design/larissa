@@ -101,13 +101,14 @@ header{
 background:linear-gradient(#5e1ad3,#1704e5);
     color:white;
     text-align:center;
-    .youtube{
-    display:flex;
-    justify-content:center;
+    display: flex;
+    justify-content: center; /* Centraliza na horizontal */
+    align-items: center;     /* Centraliza na vertical (se o container tiver altura) */
+    width: 100%; 
 }
 
 
-}
+
 
 
 
